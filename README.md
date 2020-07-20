@@ -1,5 +1,5 @@
 # apache-spark
-All my research about Apache Spark and certification related to it 
+All my research about Apache Spark and the Associate Level Certification that will come through this process.
 
 
 
