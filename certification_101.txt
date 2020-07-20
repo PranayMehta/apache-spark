@@ -1,0 +1,13 @@
+Link - https://academy.databricks.com/exam/INT-ADAS-v2-CT
+
+Exam details
+
+Total questions - 60 multiple choice questions
+Total time alloted - 120 minutes
+Passing score - 70%
+
+Exam mode - Online
+
+NOTE - PDF version of spark documentation will be provided for the language in which you choose the exam
+
+It is expected that developers that have been using the Spark DataFrame API for six months or more should be able to pass this certification exam
